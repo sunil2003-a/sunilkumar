@@ -1,0 +1,1499 @@
+.personal-portfolio-template .home-1 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .home {
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .case-studies-2 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .case-studies-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .testimonials-1 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .testimonials {
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .recent-work-1 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .recent-work {
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .get-in-touch {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .about-me {
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .top-menu {
+  margin-bottom: 1px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 716.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .linked-in {
+  opacity: 0.3;
+  width: 18px;
+  height: 17px;
+}
+.personal-portfolio-template .behance {
+  opacity: 0.3;
+  margin: 2px 0 1.4px 0;
+  width: 21.6px;
+  height: 13.6px;
+}
+.personal-portfolio-template .twitter {
+  opacity: 0.3;
+  margin: 2px 0 0.7px 0;
+  width: 17.5px;
+  height: 14.3px;
+}
+.personal-portfolio-template .social-media-icons {
+  margin-top: 2px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 107.5px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-8 {
+  border-radius: 0 0 8px 8px;
+  background: #1B1B1B;
+  position: relative;
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 24px 95.5px 27px 95px;
+  width: 1110px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .your-name-here-1 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 44px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .heading {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .intro-text-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text-1 {
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .heading-and-subheading {
+  margin-bottom: 30px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lets-get-started {
+  margin-right: 10.8px;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 16px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .vector-4 {
+  margin: 5.5px 0;
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-1 {
+  box-shadow: 0px 8px 30px 0px rgba(63, 142, 0, 0.5);
+  border-radius: 4px;
+  border: 1px solid #62BA1B;
+  background: #3F8E00;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 20px 0;
+  width: 307.9px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .header-text {
+  margin: 61px 125.9px 52px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .photo-here {
+  width: 350px;
+  height: 350px;
+}
+.personal-portfolio-template .container-16 {
+  margin-bottom: 57px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .worked-with-1 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .worked-with {
+  margin: 0 827.6px 20px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .vector-2 {
+  margin: 0 0.3px 3px 0.3px;
+  width: 15.2px;
+  height: 9.4px;
+}
+.personal-portfolio-template .vector-1 {
+  width: 15.9px;
+  height: 6.7px;
+}
+.personal-portfolio-template .container-10 {
+  margin: 0 5px 0.7px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 15.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .vector-6 {
+  margin: 3.9px 0.7px 3.6px 0;
+  width: 11.4px;
+  height: 12.3px;
+}
+.personal-portfolio-template .vector-3 {
+  margin: 3.8px 1.2px 3.7px 0;
+  width: 3px;
+  height: 12.3px;
+}
+.personal-portfolio-template .vector-8 {
+  margin: 3.2px 0.9px 3.7px 0;
+  width: 3.2px;
+  height: 12.9px;
+}
+.personal-portfolio-template .vector-9 {
+  margin: 6.9px 0.7px 3.6px 0;
+  width: 9px;
+  height: 9.3px;
+}
+.personal-portfolio-template .vector-10 {
+  margin: 3.8px 0.5px 3.7px 0;
+  width: 9.4px;
+  height: 12.3px;
+}
+.personal-portfolio-template .vector-11 {
+  margin: 3.8px 1.2px 3.5px 0;
+  width: 10px;
+  height: 12.5px;
+}
+.personal-portfolio-template .vector-12 {
+  margin-top: 7px;
+  width: 9.7px;
+  height: 12.8px;
+}
+.personal-portfolio-template .clickup-logo-1 {
+  opacity: 0.3;
+  display: flex;
+  flex-direction: row;
+  padding: 0.1px 0.2px;
+  width: 82.3px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .logo-1 {
+  border-radius: 6px;
+  border: 1px solid #1B1B1B;
+  position: relative;
+  display: flex;
+  padding: 20px 0 20px 0.3px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .xmlid-29 {
+  margin: 0 1.2px 0px 0;
+  width: 11px;
+  height: 12.9px;
+}
+.personal-portfolio-template .xmlid-27 {
+  margin-top: 3.3px;
+  width: 5.7px;
+  height: 9.6px;
+}
+.personal-portfolio-template .container-3 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  width: 17.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .xmlid-6 {
+  width: 23.1px;
+  height: 21.5px;
+}
+.personal-portfolio-template .xmlid-24 {
+  margin: 4.1px 1.1px 3.3px 0;
+  width: 9.2px;
+  height: 9.9px;
+}
+.personal-portfolio-template .xmlid-21 {
+  margin: 4.1px 1.1px 0 0;
+  width: 9.3px;
+  height: 13.1px;
+}
+.personal-portfolio-template .xmlid-18 {
+  margin: 0 0.9px 3.3px 0;
+  width: 9.3px;
+  height: 13.9px;
+}
+.personal-portfolio-template .xmlid-15 {
+  margin: 4.1px 0 3.3px 0;
+  width: 9.2px;
+  height: 9.9px;
+}
+.personal-portfolio-template .xmlid-13 {
+  margin: 4.3px 0 3.5px 0;
+  width: 9.7px;
+  height: 9.4px;
+}
+.personal-portfolio-template .container-15 {
+  margin: 3.7px 0 0.6px 0;
+  display: flex;
+  flex-direction: row;
+  width: 49.6px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .group-4 {
+  border-radius: 6px;
+  border: 1px solid #1B1B1B;
+  position: absolute;
+  right: -41.2px;
+  bottom: -21px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 17.2px 0 21.3px 0;
+  width: 160px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .dropbox-blue-1 {
+  opacity: 0.3;
+  position: relative;
+  display: flex;
+  padding: 4.7px 23.7px 4.4px 0;
+  width: 94.8px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .logo-2 {
+  border-radius: 6px;
+  border: 1px solid #1B1B1B;
+  position: relative;
+  display: flex;
+  padding: 19px 0 19px 0.8px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .group {
+  opacity: 0.3;
+  width: 87.1px;
+  height: 14px;
+}
+.personal-portfolio-template .logo-3 {
+  border-radius: 6px;
+  border: 1px solid #1B1B1B;
+  position: relative;
+  display: flex;
+  padding: 23px 0.9px 23px 0;
+  width: 160px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .group-1 {
+  width: 81.4px;
+  height: 27.9px;
+}
+.personal-portfolio-template .elastic-logo-1 {
+  opacity: 0.3;
+  display: flex;
+  padding-bottom: 0.1px;
+  width: 81.4px;
+  height: 28px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .logo-4 {
+  border-radius: 6px;
+  border: 1px solid #1B1B1B;
+  position: relative;
+  display: flex;
+  padding: 16px 0.6px 16px 0;
+  width: 160px;
+  height: 60px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .vector-41 {
+  margin: 5.3px 0.8px 4.5px 0;
+  width: 10.6px;
+  height: 15.2px;
+}
+.personal-portfolio-template .vector-40 {
+  margin: 1.9px 1.3px 4.5px 0;
+  width: 7.2px;
+  height: 18.5px;
+}
+.personal-portfolio-template .vector-39 {
+  margin: 5.4px 1px 4.8px 0;
+  width: 7.3px;
+  height: 14.8px;
+}
+.personal-portfolio-template .vector-37 {
+  margin: 0 0px 1.3px 0;
+  width: 4.2px;
+  height: 4.3px;
+}
+.personal-portfolio-template .vector-38 {
+  margin-left: 0px;
+  width: 4.2px;
+  height: 14.6px;
+}
+.personal-portfolio-template .container-9 {
+  margin: 0 1.6px 4.8px 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 4.2px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .vector-36 {
+  margin: 5.3px 0.8px 0 0;
+  width: 12.9px;
+  height: 19.7px;
+}
+.personal-portfolio-template .vector-35 {
+  margin: 5.3px 0 4.6px 0;
+  width: 12.4px;
+  height: 15.2px;
+}
+.personal-portfolio-template .group-2 {
+  opacity: 0.3;
+  display: flex;
+  flex-direction: row;
+  padding: 0px;
+  width: 60.1px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .logo-5 {
+  border-radius: 6px;
+  border: 1px solid #1B1B1B;
+  position: relative;
+  display: flex;
+  padding: 17px 0 18px 0.1px;
+  width: 160px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .clients-logos {
+  display: flex;
+  flex-direction: row;
+  column-gap: 30px;
+  width: 920px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .header {
+  background: #080808;
+  position: relative;
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 85px 45px 85px;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .case-studies {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 34px;
+  color: #080808;
+}
+.personal-portfolio-template .your-name-here {
+  margin: 0 27px 10px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .solving-user-business-problems-since-last-15-years-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text {
+  margin: 0 28px 60px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .fintech {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.1px;
+  line-height: 2;
+  color: #FFA217;
+}
+.personal-portfolio-template .tag {
+  border-radius: 60px;
+  background: #FFF6E9;
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 10.9px 0 10px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-name-here-1 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 24px;
+  color: #080808;
+}
+.personal-portfolio-template .work-name-here {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text-2 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .view-case-study {
+  margin-right: 10px;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .vector {
+  margin: 4px 0;
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action {
+  box-shadow: 0px 8px 30px 0px rgba(42, 176, 144, 0.1);
+  border-radius: 4px;
+  background: #FFA217;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 10px 0;
+  width: 189.9px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-14 {
+  margin: 27px 37.1px 17px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .image-2 {
+  background: url('../assets/images/image_2.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -30px;
+  top: -127px;
+  width: 480px;
+  height: 480px;
+}
+.personal-portfolio-template .mask-group-1 {
+  border-radius: 6px;
+  position: relative;
+  width: 445px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-1 {
+  margin-bottom: 80px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .image-1 {
+  background: url('../assets/images/image_11.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -10px;
+  top: -203px;
+  width: 460px;
+  height: 576px;
+}
+.personal-portfolio-template .mask-group {
+  border-radius: 6px;
+  position: relative;
+  margin-right: 31px;
+  width: 445px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .ed-tech {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.1px;
+  line-height: 2;
+  color: #000AFF;
+}
+.personal-portfolio-template .tag-1 {
+  border-radius: 60px;
+  background: #D0E6FF;
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 10.2px 0 10px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-name-here-3 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 24px;
+  color: #080808;
+}
+.personal-portfolio-template .work-name-here-2 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-1 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text-3 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .view-case-study-1 {
+  margin-right: 10px;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .vector-5 {
+  margin: 4px 0;
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-2 {
+  box-shadow: 0px 8px 30px 0px rgba(0, 10, 255, 0.1);
+  border-radius: 4px;
+  background: #000AFF;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 10px 0;
+  width: 189.9px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-13 {
+  margin: 27px 0 17px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-2 {
+  margin: 0 6.1px 80px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .pharma {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 12px;
+  letter-spacing: 0.1px;
+  line-height: 2;
+  color: #2AB090;
+}
+.personal-portfolio-template .tag-2 {
+  border-radius: 60px;
+  background: #E0FFF8;
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  padding: 0 10.2px 0 10px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-name-here-5 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 24px;
+  color: #080808;
+}
+.personal-portfolio-template .work-name-here-4 {
+  margin-bottom: 10px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-2 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text-4 {
+  margin-bottom: 16px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .view-case-study-2 {
+  margin-right: 10px;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .vector-7 {
+  margin: 4px 0;
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-3 {
+  box-shadow: 0px 8px 30px 0px rgba(42, 176, 144, 0.1);
+  border-radius: 4px;
+  background: #2AB090;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 10px 0;
+  width: 189.9px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-2 {
+  margin: 27px 37.1px 17px 0;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .image-3 {
+  background: url('../assets/images/image_3.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -12px;
+  top: -163px;
+  width: 462px;
+  height: 577px;
+}
+.personal-portfolio-template .mask-group-2 {
+  border-radius: 6px;
+  position: relative;
+  width: 445px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-3 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .case-studies-3 {
+  margin: 0 0 80px 28px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .testimonials-2 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 34px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .testimonial-heading {
+  margin-bottom: 10px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .testimoanial-subtext {
+  margin-bottom: 60px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-2 {
+  margin-bottom: 30px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .image-6 {
+  background: url('../assets/images/image_6.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -8px;
+  bottom: -43px;
+  width: 65px;
+  height: 97px;
+}
+.personal-portfolio-template .client-photo-1 {
+  border-radius: 25px;
+  position: relative;
+  margin-right: 20px;
+  width: 50px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .client-name-1 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .client-name-1 {
+  margin: 15px 0 14px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-12 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .testimonial-1 {
+  border-radius: 6px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 39.2px 30px 30px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua {
+  margin-bottom: 30px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .image-5 {
+  background: url('../assets/images/image_5.png') 50% / cover no-repeat;
+  position: absolute;
+  right: -8px;
+  bottom: -46px;
+  width: 66px;
+  height: 99px;
+}
+.personal-portfolio-template .client-photo-2 {
+  border-radius: 25px;
+  position: relative;
+  margin-right: 20px;
+  width: 50px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .client-name {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .your-name-here-2 {
+  margin: 15px 0 14px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-11 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .testimonial-2 {
+  border-radius: 6px;
+  border: 1px solid #484848;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0 30px 30px;
+  width: 445px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-4 {
+  margin-bottom: 62px;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-3 {
+  margin-bottom: 30px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .image-4 {
+  background: url('../assets/images/image_4.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -41px;
+  bottom: -101px;
+  width: 119px;
+  height: 177px;
+}
+.personal-portfolio-template .client-photo-11 {
+  border-radius: 25px;
+  position: relative;
+  margin-right: 20px;
+  width: 50px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .client-name-3 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .client-name-11 {
+  margin: 15px 0 14px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-17 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .testimonial-3 {
+  border-radius: 6px;
+  border: 1px solid #484848;
+  position: relative;
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 39.2px 30px 30px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-1 {
+  margin-bottom: 30px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .client-photo-21 {
+  margin-right: 20px;
+  width: 50px;
+  height: 50px;
+}
+.personal-portfolio-template .client-name-2 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 700;
+  font-size: 18px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .your-name-here-3 {
+  margin: 15px 0 14px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-1 {
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .testimonial-4 {
+  border-radius: 6px;
+  border: 1px solid #484848;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  padding: 30px 0 30px 30px;
+  width: 445px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-5 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container {
+  position: absolute;
+  top: 206px;
+  right: 583.4px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-size: 100px;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .container-2 {
+  position: absolute;
+  right: 583.4px;
+  bottom: 207px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-size: 100px;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .container-1 {
+  position: absolute;
+  left: 190px;
+  top: 206px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-size: 100px;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .container-3 {
+  position: absolute;
+  left: 190px;
+  bottom: 207px;
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 400;
+  font-size: 100px;
+  letter-spacing: 1px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .testimonials-3 {
+  background: #080808;
+  position: relative;
+  margin-bottom: 80px;
+  display: flex;
+  padding: 80px 0;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .recent-work-3 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 34px;
+  color: #080808;
+}
+.personal-portfolio-template .your-name-here-4 {
+  margin: 0 0 10px 1.1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .solving-user-business-problems-since-last-15-years-lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text-7 {
+  margin: 0 0 60px 0.1px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .vector-45 {
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-7 {
+  border-radius: 54px;
+  border: 1px solid #9C9C9C;
+  margin: 232px 65.1px 232px 0;
+  display: flex;
+  padding: 9px 11px;
+  width: 29.9px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .mask-group-3 {
+  margin-bottom: 40px;
+  width: 445px;
+  height: 300px;
+}
+.personal-portfolio-template .work-name-here-7 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 24px;
+  color: #080808;
+}
+.personal-portfolio-template .work-name-here-6 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .labore-et-dolore-magna-aliqua-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text-5 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .know-more-1 {
+  margin-right: 10.4px;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .vector-43 {
+  margin: 4px 0;
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-5 {
+  box-shadow: 0px 8px 30px 0px rgba(63, 142, 0, 0.3);
+  border-radius: 4px;
+  border: 1px solid #62BA1B;
+  background: #3F8E00;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 9px 0;
+  width: 139.9px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-11 {
+  margin-right: 30px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .image-8 {
+  background: url('../assets/images/image_8.png') 50% / cover no-repeat;
+  position: absolute;
+  left: -54px;
+  top: -21px;
+  width: 512px;
+  height: 341px;
+}
+.personal-portfolio-template .mask-group-4 {
+  border-radius: 6px;
+  position: relative;
+  margin-bottom: 40px;
+  width: 445px;
+  height: 300px;
+}
+.personal-portfolio-template .work-name-here-9 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 24px;
+  color: #080808;
+}
+.personal-portfolio-template .work-name-here-8 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .rempor-incididunt-ut-labore-et-dolore-magna-aliqua-sed-do-eiusmod-tempor-incididunt-u {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .intro-text-6 {
+  margin-bottom: 20px;
+  display: flex;
+  align-self: flex-start;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .know-more {
+  margin-right: 10.4px;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .vector-42 {
+  margin: 4px 0;
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-4 {
+  box-shadow: 0px 8px 30px 0px rgba(63, 142, 0, 0.3);
+  border-radius: 4px;
+  border: 1px solid #62BA1B;
+  background: #3F8E00;
+  display: flex;
+  flex-direction: row;
+  align-self: flex-start;
+  padding: 9px 0;
+  width: 139.9px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .work-21 {
+  margin-right: 65px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .vector-44 {
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-6 {
+  border-radius: 54px;
+  border: 1px solid #9C9C9C;
+  margin: 232px 0;
+  display: flex;
+  padding: 9px 11px;
+  width: 29.9px;
+  height: 30px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-7 {
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .recent-work-2 {
+  margin: 0 85.1px 79px 85px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .get-in-touch-1 {
+  overflow-wrap: break-word;
+  font-family: 'Raleway';
+  font-weight: 800;
+  font-size: 34px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .testimonial-heading-1 {
+  margin-bottom: 10px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .lorem-ipsum-dolor-sit-amet-consectetur-adipiscing-elit-sed-do-eiusmod-tempor-incididunt-ut-labore-et-dolore-magna-aliqua-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  line-height: 1.714;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .testimoanial-subtext-1 {
+  margin-bottom: 40px;
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .email-1 {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .placeholder-1 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.75;
+  color: #757575;
+}
+.personal-portfolio-template .enter-email-placeholder {
+  border-radius: 4px;
+  border: 1px solid #D8D8D8;
+  background: #F8F8F8;
+  padding: 8.5px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .email {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .mobile {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .placeholder {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.75;
+  color: #757575;
+}
+.personal-portfolio-template .password-placeholder {
+  border-radius: 4px;
+  border: 1px solid #D8D8D8;
+  background: #F8F8F8;
+  padding: 8.5px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .password {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .message {
+  margin-bottom: 5px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 600;
+  font-size: 12px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .placeholder-2 {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 12px;
+  line-height: 1.75;
+  color: #757575;
+}
+.personal-portfolio-template .password-placeholder-1 {
+  border-radius: 4px;
+  border: 1px solid #D8D8D8;
+  background: #F8F8F8;
+  padding: 6.5px 11px 90.5px 11px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .password-1 {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .submit {
+  margin-right: 10.6px;
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 700;
+  font-size: 14px;
+  color: #FFFFFF;
+}
+.personal-portfolio-template .vector-46 {
+  margin: 4px 0;
+  width: 5.9px;
+  height: 10px;
+}
+.personal-portfolio-template .call-to-action-8 {
+  box-shadow: 0px 8px 30px 0px rgba(63, 142, 0, 0.3);
+  border-radius: 4px;
+  border: 1px solid #62BA1B;
+  background: #3F8E00;
+  display: flex;
+  flex-direction: row;
+  padding: 15px 0;
+  width: 350px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .get-in-touch-2 {
+  background: #080808;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 81px 0 80px 0;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .made-with {
+  overflow-wrap: break-word;
+  font-family: 'IBM Plex Mono';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.1px;
+  color: #9C9C9C;
+}
+.personal-portfolio-template .home-2 {
+  display: flex;
+  box-sizing: border-box;
+}
+.personal-portfolio-template .container-6 {
+  background: #1B1B1B;
+  position: relative;
+  display: flex;
+  padding: 26px 0;
+  width: 1280px;
+  box-sizing: border-box;
+}
+.personal-portfolio-template {
+  background: #FFFFFF;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 1280px;
+  box-sizing: border-box;
+}

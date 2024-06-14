@@ -1,0 +1,9 @@
+.property-1-default-4 .telegram-1 {
+  background: url('../assets/images/telegram_1.png') 50% / cover no-repeat;
+  width: 40px;
+  height: 40px;
+}
+.property-1-default {
+  display: flex;
+  box-sizing: border-box;
+}

@@ -1,0 +1,25 @@
+.property-1-variant-2 .homee {
+  overflow-wrap: break-word;
+  font-family: 'Sen';
+  font-weight: 800;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.homee-sub24 {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+  color: #4EB2B2;
+}
+.homee {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+}
+.property-1-variant-2 {
+  background: #FFFFFF;
+  display: flex;
+  box-sizing: border-box;
+}

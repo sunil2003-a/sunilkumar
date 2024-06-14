@@ -1,0 +1,18 @@
+.property-1-default-5 .home {
+  overflow-wrap: break-word;
+  font-family: 'Sen';
+  font-weight: 800;
+  font-size: 24px;
+  color: #FFFFFF;
+}
+.home {
+  font-family: 'Inter';
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.333;
+  color: rgba(228, 219, 219, 0.61);
+}
+.property-1-default {
+  display: flex;
+  box-sizing: border-box;
+}

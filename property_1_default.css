@@ -1,0 +1,35 @@
+.property-1-default .rectangle-1 {
+  filter: blur(3.5px);
+  border-radius: 15px;
+  background: #4EB2B2;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.property-1-default .rectangle-2 {
+  filter: blur(3.5px);
+  border-radius: 15px;
+  background: #4EB2B2;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.property-1-default .download-cv {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Roboto';
+  font-weight: 500;
+  font-size: 20px;
+  color: #FFFFFF;
+}
+.property-1-default {
+  display: flex;
+  padding: 17px 10.4px 17px 0;
+  box-sizing: border-box;
+}
